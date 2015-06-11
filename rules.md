@@ -31,10 +31,9 @@ Last update: 2015-11-06
 4. If a foreign song (non-English) is played twice in a row it will be skipped.
 	Exceptions will be made for good songs.
 
------------------------------------------------------------------------------------------------------------------------------------
+##Punishment for breaking the rules (#)
 
-Punishment for breaking the rules (#)
-			Off Stream
+###Off Stream
 
 1. Song WILL be skipped unless you have a permission for it.
 2. Muted for 15 Minutes. Repeated offense will be longer mute or ban.
@@ -43,7 +42,7 @@ Punishment for breaking the rules (#)
 5. Muted for 15 Minutes. Repeated offense will be longer mute or ban.
 6. Video gets skipped.
 
-			On Stream
+###On Stream
 
 1. All of the following songs will result in a PERMANENT BAN (Goats and Metal music depend on Forsen)
 2. Song gets skipped if it was played within the last 25 songs. 
