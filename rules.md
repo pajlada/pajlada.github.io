@@ -1,3 +1,7 @@
+---
+title: Forsen's Plug.DJ Rules
+layout: post
+---
 #Forsen's PlugDJ Rules
 Last update: {% last_modified_at %}
 
