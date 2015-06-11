@@ -1,6 +1,7 @@
 ---
 title: Forsen's Plug.DJ Rules
 layout: post
+css: stylesheets/site.css
 ---
 #Forsen's PlugDJ Rules
 Last update: 2015-11-06
