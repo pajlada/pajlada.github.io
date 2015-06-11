@@ -3,7 +3,7 @@ title: Forsen's Plug.DJ Rules
 layout: post
 ---
 #Forsen's PlugDJ Rules
-Last update: {% last_modified_at %}
+Last update: 2015-11-06
 
 ##General Rules
 
@@ -18,28 +18,22 @@ Last update: {% last_modified_at %}
 ##On Stream Rules
 
 1. While Forsen listens to plug.dj you can't play
-
-	1. Sanic
-	2. Scotland
-	3. MLG (Montage Parodies)
-	4. Loud Screaming (Metal music or others)
-	5. Skrollex (A Parody of skrillex)
-	6. Songs saying the word "Nigger" (Nigga is allowed)
-	7. Goats
-	8. Ear rape in general
-
-
+ - Sanic
+ - Scotland
+ - MLG (Montage Parodies)
+ - Loud Screaming (Metal music or others)
+ - Skrollex (A Parody of skrillex)
+ - Songs saying the word "Nigger" (Nigga is allowed)
+ - Goats
+ - Ear rape in general
 2. Good/ popular songs that are in the DJ History will NOT be skipped after 25 songs have passed.
-
 3. Classical music CANNOT be skipped By mods while Forsen is in PlugDJ
-
 4. If a foreign song (non-English) is played twice in a row it will be skipped.
 	Exceptions will be made for good songs.
 
------------------------------------------------------------------------------------------------------------------------------------
+##Punishment for breaking the rules (#)
 
-Punishment for breaking the rules (#)
-			Off Stream
+###Off Stream
 
 1. Song WILL be skipped unless you have a permission for it.
 2. Muted for 15 Minutes. Repeated offense will be longer mute or ban.
@@ -48,7 +42,7 @@ Punishment for breaking the rules (#)
 5. Muted for 15 Minutes. Repeated offense will be longer mute or ban.
 6. Video gets skipped.
 
-			On Stream
+###On Stream
 
 1. All of the following songs will result in a PERMANENT BAN (Goats and Metal music depend on Forsen)
 2. Song gets skipped if it was played within the last 25 songs. 
