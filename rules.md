@@ -4,7 +4,7 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 2015-11-06 1
+Last update: 2015-06-24
 
 ##General Rules
 
@@ -15,6 +15,7 @@ Last update: 2015-11-06 1
 4. Don't ask for Skips.
 5. Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general.
 6. No asking for rank promotions, for yourself or others. The same applies to demotions.
+7. **NO** alt accounts in the waitlist.
 
 ##On Stream Rules
 
