@@ -8,14 +8,16 @@ Last update: 2015-06-24
 
 ##General Rules
 
-1. No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot.
- - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more).
-2. No songs that are in the DJ History (Played during the last 50 songs).
-3. No gore/ gore related videos (exceptions will be made for music videos).
-4. Don't ask for Skips.
-5. Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general.
-6. No asking for rank promotions, for yourself or others. The same applies to demotions.
-7. **NO** alt accounts in the waitlist.
+| Rule          | Punishment |
+| ------------- | ---------- |
+| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
+| No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
+| No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
+| Don't ask for Skips. | 15 minute mute |
+| Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
+| No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
+| **NO** alt accounts in the waitlist. | ? |
+*NOTE: Repeated offenses will result in harsher punishments.*
 
 ##On Stream Rules
 
@@ -34,15 +36,6 @@ Last update: 2015-06-24
 4. Classical music CANNOT be skipped by mods while Forsen is listening to PlugDJ.
 
 ##Punishment for breaking the rules (#)
-
-###Off Stream
-
-1. Song gets skipped, unless you have received permission.
-2. Song gets skipped.
-3. Video gets skipped.
-4. Muted for 15 Minutes. Repeated offense will result in a longer mute or ban.
-5. Muted for 15 Minutes. Repeated offense will result in a longer mute or ban.
-6. Muted for 15 Minutes. Repeated offense will result in a longer mute or ban.
 
 ###On Stream
 
