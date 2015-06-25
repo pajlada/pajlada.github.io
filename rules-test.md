@@ -8,7 +8,6 @@ Last update: 123
 
 ##General Rules
 
-|----
 | Rule      | Punishment   |
 |-----------|--------------|
 | No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
