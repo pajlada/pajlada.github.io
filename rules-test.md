@@ -52,20 +52,15 @@ Being purple does not exempt you from these rules. Repeated/large offences and a
 
 <style>
 body {
-	font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
-	color: #333;
+    font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #333;
 }
-table{
+table th,  table td {
+    padding: 6px 13px;
+    border: 1px solid #ddd;
+}
+table {
     border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #000000;
-}
-
-th{
-    border:2px solid #000000;
-}
-
-td{
-    border:1px solid #000000;
+    border-spacing: 2px;
 }
 </style>
