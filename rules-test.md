@@ -21,6 +21,18 @@ Last update: 123
 |-----------+--------------|
 *NOTE: Repeated offenses will result in harsher punishments.*
 
+|-----------------+------------|
+| Default aligned |Left aligned|
+|-----------------|:-----------|
+| First body part |Second cell |
+| Second line     |foo         |
+| Third line      |quux        |
+|-----------------+------------|
+| Second body     |            |
+| 2 line          |            |
+|=================+============|
+| Footer row      |            |
+|-----------------+------------|
 
 
 ##On Stream Rules
