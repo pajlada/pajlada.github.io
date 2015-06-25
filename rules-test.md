@@ -30,6 +30,7 @@ Last update: 123
 |-----------------+------------|
 | Second body     |            |
 | 2 line          |            |
+| No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
 |=================+============|
 | Footer row      |            |
 |-----------------+------------|
