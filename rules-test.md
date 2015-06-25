@@ -8,7 +8,7 @@ Last update: 123
 
 ##General Rules
 
-|-----------+--------------|
+|----
 | Rule      | Punishment   |
 |-----------|--------------|
 | No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
@@ -18,7 +18,7 @@ Last update: 123
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
 | **NO** alt accounts in the waitlist. | ? |
-|=================+============|
+|------------------|
 
 *NOTE: Repeated offenses will result in harsher punishments.*
 
