@@ -10,7 +10,7 @@ Last update: 125
 
 | Rule      | Punishment   |
 |-----------|--------------|
-| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. *NOTE:* if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
+| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot.<br>*NOTE:* if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
 | No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
 | No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
 | Don't ask for Skips. | 15 minute mute |
@@ -22,33 +22,15 @@ Last update: 125
 
 ##On Stream Rules
 
-1. While Forsen listens to plug.dj you can't play
- - Sanic
- - Scotland (see THEME OF SCOTLAND SCOTLAND FOREVER SCOTLAND REMIX on Youtube)
- - MLG (Montage Parodies)
- - Loud Screaming (Metal music or others)
- - Skrollex (A parody of Skrillex)
- - Songs saying the word "Nigger" (Nigga is allowed, racist intent is the deciding factor)
- - Goats
- - Ear rape in general
-2. Good/popular songs that are in the DJ History will NOT be skipped after 25 songs have passed.
-3. If more than one foreign language songs (non-English) are played in a row, they can be skipped.
-	(Exceptions can be made for good songs.)
-4. Classical music CANNOT be skipped by mods while Forsen is listening to PlugDJ.
-
-##Punishment for breaking the rules (#)
-
-###On Stream
-
-1. Every offence will result in a PERMANENT BAN (Forsen decides the punishment for Goats and Metal Screaming)
-2. Song gets skipped if it was played within the last 25 songs. 
-3. Song gets skipped if it is not good.
-4. Forsen decides the punishment.
-
+| Rule      | Punishment   |
+|-----------|--------------|
+| While Forsen listens to plug.dj you can't play<br> - Sanic<br> - Scotland (see THEME OF SCOTLAND SCOTLAND FOREVER SCOTLAND REMIX on Youtube)<br> - MLG (Montage Parodies)<br> - Loud Screaming (Metal music or others)<br> - Skrollex (A parody of Skrillex)<br> - Songs saying the word "Nigger" (Nigga is allowed, racist intent is the deciding factor)<br> - Goats<br> - Ear rape in general<br> | **PERMANENT BAN** |
+| Good/popular songs that are in the DJ History will NOT be skipped after 25 songs have passed. | Song gets skipped if it was played within the last 25 songs. |
+| If more than one foreign language songs (non-English) are played in a row, they can be skipped.<br>*NOTE:* Exceptions can be made for good songs. | Song gets skipped if it is not good. |
+| Classical music CANNOT be skipped by mods while Forsen is listening to PlugDJ. | Forsen decides the punishment. |
 
 ##Addition for staff members:
 Being purple does not exempt you from these rules. Repeated/large offences and abuse of mod powers WILL lead to demotion.
-
 
 <style>
 body {
