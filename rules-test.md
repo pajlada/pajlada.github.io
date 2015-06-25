@@ -52,9 +52,7 @@ Being purple does not exempt you from these rules. Repeated/large offences and a
 
 <style>
 body {
-    font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
     font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
-
     color: #333;
     font-size: 16px;
     line-height: 1.6;
