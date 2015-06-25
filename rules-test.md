@@ -8,7 +8,9 @@ Last update: 123
 
 ##General Rules
 
-| Rule  | Punishment |
+|-----------+--------------|
+| Rule      | Punishment   |
+|-----------|--------------|
 | No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
 | No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
 | No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
@@ -16,25 +18,10 @@ Last update: 123
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
 | **NO** alt accounts in the waitlist. | ? |
+|-----------+--------------|
 *NOTE: Repeated offenses will result in harsher punishments.*
 
-| First cell|Second cell|Third cell
-| First | Second | Third |
 
-First | Second | | Fourth |
-
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
 
 ##On Stream Rules
 
