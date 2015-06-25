@@ -19,6 +19,11 @@ Last update: 2015-06-24
 | **NO** alt accounts in the waitlist. | ? |
 *NOTE: Repeated offenses will result in harsher punishments.*
 
+| First cell|Second cell|Third cell
+| First | Second | Third |
+
+First | Second | | Fourth |
+
 ##On Stream Rules
 
 1. While Forsen listens to plug.dj you can't play
