@@ -32,6 +32,7 @@ Last update: 123
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
 | **NO** alt accounts in the waitlist. | ? |
 |-----------------+------------|
+*NOTE: Repeated offenses will result in harsher punishments.*
 
 
 ##On Stream Rules
