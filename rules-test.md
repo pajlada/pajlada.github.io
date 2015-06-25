@@ -30,7 +30,13 @@ Last update: 123
 |-----------------+------------|
 | Second body     |            |
 | 2 line          |            |
+| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
 | No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
+| No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
+| Don't ask for Skips. | 15 minute mute |
+| Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
+| No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
+| **NO** alt accounts in the waitlist. | ? |
 |=================+============|
 | Footer row      |            |
 |-----------------+------------|
