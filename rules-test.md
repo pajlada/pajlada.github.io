@@ -65,4 +65,12 @@ table {
     border-collapse: collapse;
     border-spacing: 2px;
 }
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
 </style>
