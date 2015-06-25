@@ -48,3 +48,20 @@ Last update: 124
 
 ##Addition for staff members:
 Being purple does not exempt you from these rules. Repeated/large offences and abuse of mod powers WILL lead to demotion.
+
+
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+</style>
