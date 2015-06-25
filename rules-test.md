@@ -10,7 +10,7 @@ Last update: 125
 
 | Rule      | Punishment   |
 |-----------|--------------|
-| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. - NOTE: if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
+| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot. *NOTE:* if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
 | No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
 | No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
 | Don't ask for Skips. | 15 minute mute |
@@ -51,10 +51,14 @@ Being purple does not exempt you from these rules. Repeated/large offences and a
 
 
 <style>
+body {
+	font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+	color: #333;
+}
 table{
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
+    border:2px solid #000000;
 }
 
 th{
