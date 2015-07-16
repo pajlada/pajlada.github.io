@@ -4,7 +4,7 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 2015-06-25 03:13 UTC
+Last update: 2015-07-16 10:47 UTC
 
 ##General Rules
 
@@ -17,6 +17,7 @@ Last update: 2015-06-25 03:13 UTC
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
 | **NO** alt accounts in the waitlist. | *TBD* |
+| Don't encourage or organize raids of other plug.dj communities. | **BAN** |
 
 *NOTE: Repeated offenses will result in harsher punishments.*
 
@@ -30,7 +31,10 @@ Last update: 2015-06-25 03:13 UTC
 | Classical music CANNOT be skipped by mods while Forsen is listening to PlugDJ. | Forsen decides the punishment. |
 
 ##Addition for staff members:
-Being purple does not exempt you from these rules. Repeated/large offences and abuse of mod powers WILL lead to demotion.
+Being purple does not exempt you from these rules. Repeated/large offences and abuse of mod powers WILL lead to demotion.  
+Encouraging others to break any rule will be punished by a higher authority staff member.  
+Remember, you are supposed to set a good example for the rest of the community.  
+
 
 <style>
 body {
