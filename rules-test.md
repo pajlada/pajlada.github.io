@@ -4,7 +4,7 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 125
+Last update: 2015-06-25 03:13 UTC
 
 ##General Rules
 
@@ -16,7 +16,7 @@ Last update: 125
 | Don't ask for Skips. | 15 minute mute |
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
-| **NO** alt accounts in the waitlist. | ? |
+| **NO** alt accounts in the waitlist. | *TBD* |
 
 *NOTE: Repeated offenses will result in harsher punishments.*
 
