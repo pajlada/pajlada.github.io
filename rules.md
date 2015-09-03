@@ -4,7 +4,7 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 2015-09-03 22:18 UTC
+Last update: 2015-09-03 22:22 UTC
 
 ##General Rules
 
@@ -34,6 +34,9 @@ Last update: 2015-09-03 22:18 UTC
 Being purple does not exempt you from these rules. Repeated/large offences and abuse of mod powers WILL lead to demotion.  
 Encouraging others to break any rule will be punished by a higher authority staff member.  
 Remember, you are supposed to set a good example for the rest of the community.  
+
+##Changelog:
+ * **2015-09-03 22:22 UTC** - Maximum song length changed from **5 minutes, 30 seconds** to **5 minutes**.
 
 
 <style>
