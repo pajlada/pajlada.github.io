@@ -4,13 +4,13 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 2015-07-16 10:47 UTC
+Last update: 2015-09-03 22:18 UTC
 
 ##General Rules
 
 | Rule      | Punishment   |
 |-----------|--------------|
-| No songs longer than 5 minutes. Songs longer than 5 mins 30s will be auto skipped by a bot.<br>*NOTE:* if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
+| No songs longer than 5 minutes. <br>*NOTE:* if you want to play a longer song, ask for permission from managers (2 stripes or more). | Song gets skipped, unless you have received permission. |
 | No songs that are in the DJ History (Played during the last 50 songs). | Song gets skipped. |
 | No gore/ gore related videos (exceptions will be made for music videos). | Song gets skipped. |
 | Don't ask for Skips. | 15 minute mute |
