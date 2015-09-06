@@ -16,7 +16,7 @@ Last update: 2015-09-03 22:22 UTC
 | Don't ask for Skips. | 15 minute mute |
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
-| Don't post Gore pictures in chat. | First warning. Repeated offense will result in a 15-45 min mute |
+| Don't post Gore pictures in chat. |Warning. Repeated offense will result in a 15-45 min mute |
 | **NO** alt accounts in the waitlist. | *TBD* |
 | Don't encourage or organize raids of other plug.dj communities. | **BAN** |
 
