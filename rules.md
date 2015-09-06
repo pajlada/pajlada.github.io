@@ -4,7 +4,7 @@ layout: post
 css: site
 ---
 #Forsen's PlugDJ Rules
-Last update: 2015-09-03 22:22 UTC
+Last update: 2015-09-06 19:00 UTC
 
 ##General Rules
 
@@ -38,6 +38,7 @@ Remember, you are supposed to set a good example for the rest of the community.
 
 ##Changelog:
  * **2015-09-06 19:00 UTC** - Added no *gore/shock content pictures* in chat rule.
+ * **2015-09-03 22:22 UTC** - Maximum song length changed from **5 minutes, 30 seconds** to **5 minutes**.
 
 
 <style>
