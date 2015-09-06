@@ -16,7 +16,7 @@ Last update: 2015-09-03 22:22 UTC
 | Don't ask for Skips. | 15 minute mute |
 | Don't spam the chat with ASCII, copypasta and non-Latin letters. No excessive spam in general. | 15 minute mute |
 | No asking for rank promotions, for yourself or others. The same applies to demotions. | 15 minute mute |
-| Don't post Gore pictures in chat. |Warning. Repeated offense will result in a 15-45 min mute |
+| Don't post Gore pics in chat. |Warning. Repeated offense will result in a 15-45 minute mute |
 | **NO** alt accounts in the waitlist. | *TBD* |
 | Don't encourage or organize raids of other plug.dj communities. | **BAN** |
 
@@ -37,7 +37,7 @@ Encouraging others to break any rule will be punished by a higher authority staf
 Remember, you are supposed to set a good example for the rest of the community.  
 
 ##Changelog:
- * **2015-09-03 22:22 UTC** - Maximum song length changed from **5 minutes, 30 seconds** to **5 minutes**.
+ * **2015-09-06 19:00 UTC** - Added no *gore pictures* in chat rule.
 
 
 <style>
