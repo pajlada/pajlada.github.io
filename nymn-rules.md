@@ -1,10 +1,10 @@
 ---
-title: NymN's Plug.DJ Rules
+title: NymN's Dubtrack Rules
 layout: post
 css: site
 ---
-#NymN's PlugDJ Rules
-Last update: 2015-09-12 20:22 UTC
+#NymN's Dubtrack Rules
+Last update: 2015-12-08 15:50 UTC
 
 ##General Rules
 
@@ -25,7 +25,7 @@ Last update: 2015-09-12 20:22 UTC
 
 | Rule      | Punishment   |
 |-----------|--------------|
-| While NymN listens to plug.dj you can't play<br> - Sanic<br> - Scotland (see THEME OF SCOTLAND SCOTLAND FOREVER SCOTLAND REMIX on Youtube)<br> - MLG (Montage Parodies)<br> - Loud Screaming (Metal music or others)<br> - Skrollex (A parody of Skrillex)<br> - Songs saying the word "Nigger" (Nigga is allowed, racist intent is the deciding factor)<br> - Goats<br> - Ear rape in general<br> | **PERMANENT BAN** |
+| While NymN listens to dubtrack you can't play<br> - Sanic<br> - Scotland (see THEME OF SCOTLAND SCOTLAND FOREVER SCOTLAND REMIX on Youtube)<br> - MLG (Montage Parodies)<br> - Loud Screaming (Metal music or others)<br> - Skrollex (A parody of Skrillex)<br> - Songs saying the word "Nigger" (Nigga is allowed, racist intent is the deciding factor)<br> - Goats<br> - Ear rape in general<br> | **PERMANENT BAN** |
 | Good/popular songs that are in the DJ History will NOT be skipped after 25 songs have passed. | Song gets skipped if it was played within the last 25 songs. |
 
 ##Addition for staff members:
@@ -34,7 +34,7 @@ Encouraging others to break any rule will be punished by a higher authority staf
 Remember, you are supposed to set a good example for the rest of the community.  
 
 ##Changelog:
- * **2015-09-12 20:2 UTC** - Kappa
+ * **2015-09-12 20:20 UTC** - Kappa
 
 
 <style>
