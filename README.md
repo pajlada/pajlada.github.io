@@ -1,6 +1,3 @@
----
-title: test
-layout: post
----
+my website
 
-# pajlada.github.io test
+available at [pajlada.se](https://pajlada.se)
