@@ -1,6 +1,6 @@
 ---
 title: Cool
-layout: post
+layout: Home
 ---
 
 Welcome to my cool website!
