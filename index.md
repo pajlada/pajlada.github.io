@@ -3,6 +3,8 @@ title: pajlada.se
 layout: default
 ---
 
+<style>:root{color-scheme:light dark}body{background-color:light-dark(#ccc,#333)}</style>
+
 Welcome to my cool website!
 
 - My GitHub: [pajlada](https://github.com/pajlada)
